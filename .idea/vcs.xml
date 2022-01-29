@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../homeworks-it-incubator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../native-javascript-incubator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/Smoothie-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/african-safari-landing-page-freelance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/calc currency js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/clock-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/codewars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/countdown-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/design thinking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/educational multipage site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/food-store-on-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/freecodecamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/freelance layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/gulp-sass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/helicopter-photo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/internet furniture store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/online-store-of-rolls-on-JS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/portfolio-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/test/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/to-do-list-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projectsssss/todolist-incubator-Dimich" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../quadcopter-mockup-freelance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react-kabzda-podrobno-studies/examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../replay-TODOLIST" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../social-network-incubator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../todolist-incubator" vcs="Git" />
   </component>
 </project>
