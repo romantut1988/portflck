@@ -339,13 +339,13 @@ a {
     width:60%;
 }
 .skills-content .right .js::before{
-    width:10%;
+    width:30%;
 }
 .skills-content .right .ts::before{
-    width:10%;
+    width:30%;
 }
 .skills-content .right .react::before{
-    width:10%;
+    width:30%;
 }
 .teams .title::after{
     content:"who with me";
